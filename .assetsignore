@@ -1,0 +1,15 @@
+node_modules
+scripts
+tests
+test-results
+playwright-report
+.git
+README.md
+package.json
+package-lock.json
+playwright.config.js
+docs
+dist
+*.zip
+LICENSE
+__pycache__

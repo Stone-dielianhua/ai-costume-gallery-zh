@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.wrangler/
+*.log
+*.zip
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+*.part

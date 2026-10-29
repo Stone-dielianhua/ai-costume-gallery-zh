@@ -1,0 +1,25 @@
+{
+  "name": "ai-costume-gallery-zh",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "Stone-dielianhua",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stone-dielianhua/ai-costume-gallery-zh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stone-dielianhua/ai-costume-gallery-zh/issues"
+  },
+  "license": "MIT",
+  "description": "COSTUME Atlas 中文版服装参考图库，与 POSE Atlas 保持一致的浏览体验",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}

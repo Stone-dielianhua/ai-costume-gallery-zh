@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-costume-gallery-zh.pages.dev/sitemap.xml
